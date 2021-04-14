@@ -1,0 +1,13 @@
+.bttn button{
+    margin-left: 0px;
+    margin-top: 15px;
+    padding: 15px;
+    width: 100%;
+    border-radius: 30px;
+    border: none;
+    color: #fff;
+    background-color: rgb(29 161 242);
+    opacity: .5 ;
+}
+
+.p-15 { padding: 15px;}
