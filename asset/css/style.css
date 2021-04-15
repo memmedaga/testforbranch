@@ -1,6 +1,6 @@
 .bttn button{
     margin-left: 0px;
-    margin-top: 15px;
+    margin-top: 9px;
     padding: 15px;
     width: 100%;
     border-radius: 30px;
@@ -10,4 +10,32 @@
     opacity: .5 ;
 }
 
-.p-15 { padding: 15px;}
+.p-15 { padding: 15px;
+    color: inherit;
+    font: inherit;
+    font-size: 32px;
+    font-weight: bold;
+}  
+
+.form-group input{
+padding: 30px;
+}
+.form-group{
+    margin: 10p;
+    padding: 4px;
+}
+
+  
+
+.reset{
+    height: 45px;
+}
+.forget{
+    margin-left: -348px ;
+    margin-top: 390px;
+}
+.signup{
+    margin-left: -177px;
+    margin-top: -39px;
+   
+}
